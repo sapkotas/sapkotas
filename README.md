@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunav Sapkota</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">I am currently learning CSIT in Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapkotas&label=Profile%20views&color=0e75b6&style=flat" alt="sapkotas" /> </p>
 
