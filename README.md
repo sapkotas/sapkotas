@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunav Sapkota</h1>
 <h3 align="center">I am currently learning Bsc.CSIT in Nepal.</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Redux**
 
 - 📫 How to reach me **sunavsapkota57@gmail.com**
 
